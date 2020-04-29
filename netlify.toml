@@ -6,3 +6,4 @@
 [[redirects]]
     from = "/*"
     to = "/"
+    force = true
